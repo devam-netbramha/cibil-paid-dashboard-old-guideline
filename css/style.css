@@ -12010,7 +12010,7 @@ input[type=number] {
   border-radius: 16px;
   background-color: #DEF2DE;
   color: #008A00;
-  font-size: 10px;
+  font-size: 9px;
   line-height: 14px;
   font-weight: 400;
   text-transform: capitalize;
@@ -14040,12 +14040,12 @@ input[type=number] {
 }
 .upgradePlanPopup .modal-dialog .modal-content .modal-body .plan-price {
   font-weight: 600;
-  font-size: 24px;
+  font-size: 20px;
   line-height: 30px;
 }
 .upgradePlanPopup .modal-dialog .modal-content .modal-body .plan-price .plan-duration span {
   color: #707070;
-  font-size: 18px;
+  font-size: 14px;
   line-height: 24px;
   font-weight: 400;
   letter-spacing: 0.36px;
